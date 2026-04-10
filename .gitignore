@@ -4,8 +4,8 @@
 **vllm**
 **logs**
 **vec2words**
-results/*** */
-**/figures/**
+**results/**
+**figures**
 **/results/**
-**/archived/**
+**archived**
 **/vec2words/**
