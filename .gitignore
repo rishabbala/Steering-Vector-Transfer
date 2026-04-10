@@ -1,0 +1,11 @@
+**/data/**
+**__pycache__**
+**wandb**
+**vllm**
+**logs**
+**vec2words**
+results/*** */
+**/figures/**
+**/results/**
+**/archived/**
+**/vec2words/**
