@@ -125,7 +125,7 @@ Arguments:
 `output_dir` - Directory to save the generations and evaluations \
 `prompt_type` - Pair of prompts, the first one is applied to the Target model \
 `split` - Set to test \
-`num_sample` - Set to -1 to evaluate on all samples \
+`num_sample` - Set to -1 to evaluate on all samples
 
 ---
 
